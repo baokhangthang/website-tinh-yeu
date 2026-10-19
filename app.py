@@ -3,8 +3,8 @@ from flask import Flask, render_template_string
 app = Flask(__name__)
 
 # Sua ten hai nguoi tai day
-TEN_NGUOI_YEU = "Em Yeu"
-TEN_NGUOI_GUI = "Nguoi thuong cua em"
+TEN_NGUOI_YEU = "TÚ QUYÊN XINH ĐẸP🌸"
+TEN_NGUOI_GUI = "Thang Bảo Khang"
 
 PAGE = r"""
 <!DOCTYPE html>
